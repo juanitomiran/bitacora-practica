@@ -1,3 +1,7 @@
 [
-  "rama"
+  {
+    "nombre": "laptop",
+    "marca": "apple",
+    "cantidad": 1
+  }
 ]

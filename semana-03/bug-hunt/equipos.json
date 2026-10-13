@@ -1,0 +1,6 @@
+[
+  {"nombre": "Laptop", "marca": "Lenovo", "cantidad": 4},
+  {"nombre": "Impresora", "marca": "HP", "cantidad": 2},
+  {"nombre": "Tablet", "cantidad": 3},
+  {"nombre": "Monitor", "marca": "Dell", "cantidad": 6}
+]
